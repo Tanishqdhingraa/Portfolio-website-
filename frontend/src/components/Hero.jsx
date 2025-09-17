@@ -9,7 +9,7 @@ const Hero = () => {
           Tanishq <br /> Dhingra
         </h1>
 
-        <div className="mt-5">
+        <div className="mt-6">
           <a
             href=""
             target="_blank"
